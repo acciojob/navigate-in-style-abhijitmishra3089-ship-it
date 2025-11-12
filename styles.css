@@ -1,9 +1,11 @@
-nav {
+.nav-bar {
 	background-color: #D3D3D3;
 	padding: 10px;
 }
-ul,li {
+.nav ul {
+	list-style-type: none;
+}
+.nav li{
 	display: inline;
 	margin-right: 1rem;
-	list-style-type: none;
 }
