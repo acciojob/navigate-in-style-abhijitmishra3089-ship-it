@@ -1,8 +1,6 @@
-.container {
+.container,ul,li {
 	background-color: #D3D3D3;
 	padding: 10px;
-}
- ul , li {
 	list-style-type: none;
 	display: inline;
 	margin-right: 1rem;
