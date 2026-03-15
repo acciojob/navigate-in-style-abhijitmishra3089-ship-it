@@ -1,7 +1,13 @@
-.container,ul,li {
+nav {
 	background-color: #D3D3D3;
 	padding: 10px;
-	display: inline;
+}
+nav ul{
+	list-style:none;
+	margin:0px;
+	padding:0px;
+}
+	nav ul li{
+		display: inline;
 	margin-right: 1rem;
-	list-style: no bullets;
 }
