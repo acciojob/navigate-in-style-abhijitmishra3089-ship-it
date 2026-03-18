@@ -2,8 +2,10 @@ nav{
 	background-color: #D3D3D3;
 	padding: 10px;
 }
-ul li{
+nal ul{
+	list-style:none;
+}
+nav ul li{
 	display:inline;
 	margin-right:1rem;
-	list-style-type:none;
 }
