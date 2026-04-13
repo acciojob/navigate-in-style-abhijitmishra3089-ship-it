@@ -1,12 +1,11 @@
 .nav-bar{
-	display:flex;
-	flex-direction:column;
-	background-color:rgb(211,211,211);
+	background-color:#D3D3D3;
 	padding: 10px;
 }
- .nav-bar ul{
+ ul{
 	list-style:none;
  }
-.nav-bar ul li{
+li{
+	display:inline;
 	margin-right:1rem;
 }
