@@ -1,11 +1,11 @@
-.navbar{
+.nav-bar{
 	background-color: #D3D3D3;
 	padding: 10px;
 }
- .navbar ul{
+ .nav-bar ul{
 	list-style:none;
  }
-.navbar ul li{
+.nav-bar ul li{
 	display:inline;
 	margin-right:1rem;
 }
